@@ -66,6 +66,11 @@ Wanna go again? (yes/no): no
 Goodbye!
 ```
 
+##Screenshots
+
+![image](https://github.com/user-attachments/assets/5cd004b7-2ec5-4eb5-80b7-82e28f259669)
+
+
 ## Notes
 
 - Ensure you have a Spotify Developer account and create a new application to get your `client_id` and `client_secret`.
