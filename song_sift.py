@@ -41,7 +41,7 @@ while True:
         table = Table(title="Song Recommendations")
 
         table.add_column("Track Name", style="green", no_wrap=True)
-        table.add_column("Artist", style="cyan")
+        table.add_column("Artist", style="red", no_wrap=True)
 
         for track in recommendations:
             table.add_row(track['name'], track['artists'][0]['name'])
